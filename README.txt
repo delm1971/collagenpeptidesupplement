@@ -1,0 +1,1 @@
+Upload the extracted files (not the ZIP) to the ROOT of your GitHub repository, replacing index.html, logo.png and CNAME where prompted. All article .html files must be in the root alongside index.html. GitHub Pages Settings > Pages: verify custom domain and Enforce HTTPS. Confirm affiliate URL, product claims, and legal/privacy pages before publication.
